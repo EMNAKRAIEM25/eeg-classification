@@ -1,0 +1,8 @@
+hms_data/
+kaggle.json
+wandb/
+*.zip
+*.keras
+*.npy
+.ipynb_checkpoints/
+.DS_Store
